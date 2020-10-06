@@ -2,4 +2,5 @@ body {background:#eee; margin:0; padding:0;font-family: 'Arial',verdana,sans-ser
 h1 {padding: 2em 1em;margin:0;font-size: 4em;background: #333;color: #eee;text-align: center;text-transform: uppercase;}
 h2 {flex:1 1 auto;text-align: center;}
 main div {display: flex;flex-wrap:wrap;align-items: center;justify-content:center;}
+img {height:100%;}
 div:nth-child(odd) {background-color:#ddd;}

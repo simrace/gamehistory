@@ -3,5 +3,5 @@ h1 {padding: 1.9em 1em;margin:0;font-size: 3.2em;background: #333;color: #eee;te
 h2 {flex:1 1 auto;font-size: 1.3em;padding: 1em;}
 main div {display: flex;flex-wrap:wrap;align-items: center;justify-content:right;}
 img {height:100%;max-height: 220px;max-width: 100%;}
-b {display: block;font-size: .8em;}
+b {display: block;font-size: .7em;font-weight: normal;letter-spacing: 2px;}
 div:nth-child(odd) {background-color:#ddd;}

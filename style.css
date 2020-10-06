@@ -1,6 +1,6 @@
 body {background:#eee; margin:0; padding:0;font-family: 'Arial',verdana,sans-serif;letter-spacing: 2px;}
 h1 {padding: 2em 1em;margin:0;font-size: 4em;background: #333;color: #eee;text-align: center;text-transform: uppercase;}
-h2 {flex:1 1 auto;font-size: 1em;}
+h2 {flex:1 1 auto;font-size: 1.3em;}
 main div {display: flex;flex-wrap:wrap;align-items: center;justify-content:right;}
 img {height:100%;max-height: 220px;}
 div:nth-child(odd) {background-color:#ddd;}

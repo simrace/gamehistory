@@ -1,5 +1,5 @@
 body {background:#eee; margin:0; padding:0;font-family: 'Arial',verdana,sans-serif;letter-spacing: 2px;}
 h1 {padding: 2em 1em;margin:0;font-size: 4em;background: #333;color: #eee;text-align: center;text-transform: uppercase;}
-h2 {flex:1 1 100%;text-align: center;}
-main div {display: flex;flex-wrap:wrap;align-items: center;padding:1em;justify-content:center;}
+h2 {flex:1 1 auto;text-align: center;}
+main div {display: flex;flex-wrap:wrap;align-items: center;justify-content:center;}
 div:nth-child(odd) {background-color:#ddd;}

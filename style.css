@@ -1,4 +1,4 @@
 body {background:#eee; margin:0; padding:0;font-family: 'Arial',verdana,sans-serif;letter-spacing: 2px;}
-h1 {padding: 2em 1em;font-size: 5em;}
+h1 {padding: 1em;font-size: 5em;background: #333;color: #eee;}
 div {display: flex;}
 div:nth-child(odd) {background:#ddd;}
